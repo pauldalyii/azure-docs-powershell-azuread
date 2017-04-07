@@ -2,25 +2,37 @@
 ## [Install AzureAD v2](install-adv2.md)
 ## [Install AzureAD v1(MSonline)](install-msonlinev1.md)
 # [Sample scripts](samples.md)
-## PowerShell scenario examples
+## [PowerShell scenario examples](scenario_samples.md)
 ### [Managing groups in Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-accessmanagement-groups-settings-cmdlets)
 ### [Managing Unified Groups settings using Powershell](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-accessmanagement-groups-settings-v2-cmdlets)
 ### [Managing Role Based Access Control (RBAC)](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-manage-access-powershell)
 ### [Creating Audit Reports for your directory](Audit-sample.md)
-## Powershell script snippets
+## [Powershell script snippets](Snippets.md)
 ### [Inviting guests in B2B](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-b2b-code-samples#powershell-example)
 ### [Creating a new user](New-user-sample.md)
-# Troubleshooting
-## Install errors
-### 
-# Frequently asked questions
-## Why is there a seperate Azure AD Preview module?
-## My directory is in the German cloud, how can I use PowerShell?
-## What happened to the MSOnline Settings cmdlets?
-## Is Microsoft discontinuing the MSOnline module? 
-## Where is the PowerShell log file stored?
-## Does Microsoft automatically update the PowerShell version on my computer when new versions are released?
-# Further reading
-## [General information about PowerShell](https://docs.microsoft.com/en-us/powershell/)
+# [Troubleshooting](Troubleshooting.md)
+## [Installation issues](Installation-issues.md)
+### [I get an error when running the Install-Module or the Update-Module cmdlet](Install-module-error.md)
+### [I cannot find the cmdlets I am looking for](cmdlets-not-found.md)
+### [How can I find which version of a module is installed on my computer?](Find-Module-version.md)
+### [How can I install a previous version of a module?](Install-previous-version.md)
+## [Execution errors](Execution-errors.md)
+### [I'm looking for a user or a group but PowerShell does not return the object](Cannot-find-object.md)
+## [Authentication issues](Authentication-issues.md)
+### [I get an error "\<your account> isn't in our system"](account-not-in-system-error.md)
+# [Frequently asked questions](Faq.md)
+## [How can I search for a user or a group?](Search-for-object.md)
+## [Why is there a seperate Azure AD Preview module?](Preview-module.md)
+## [My directory is in the German cloud, how can I use PowerShell?](Azure-environment.md)
+## [What happened to the MSOnline Settings cmdlets?](MSOL-Settings.md]
+## [Is Microsoft discontinuing the MSOnline module? ](MSOL-discontinue.md]
+## [Where is the PowerShell log file stored?](PowerShell-logfile.md)
+## [Does Microsoft automatically update the PowerShell version on my computer when new versions are released?](PowerShell-auto-update.md)
+# [Read more](read-more.md)
+## [Getting started with PowerShell](https://msdn.microsoft.com/powershell/scripting/getting-started/getting-started-with-windows-powershell)
+## [PowerShell fundamental concepts](https://msdn.microsoft.com/en-us/powershell/scripting/getting-started/fundamental-concepts)
+## [PowerShell setup and installation](https://msdn.microsoft.com/en-us/powershell/scripting/setup/setup-reference)
+## [Working with files and folders](https://msdn.microsoft.com/en-us/powershell/scripting/getting-started/cookbooks/working-with-files-and-folders)
+## [PowerShellGet module](https://msdn.microsoft.com/powershell/reference/5.1/PowerShellGet/PowerShellGet)
 ## 
 
