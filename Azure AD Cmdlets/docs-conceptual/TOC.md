@@ -2,12 +2,14 @@
 ## [Install AzureAD v2](install-adv2.md)
 ## [Install AzureAD v1(MSonline)](install-msonlinev1.md)
 # [Sample scripts](samples.md)
-## [Managing groups in Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-accessmanagement-groups-settings-cmdlets)
-## [Managing Unified Groups settings using Powershell](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-accessmanagement-groups-settings-v2-cmdlets)
-## [Managing Role Based Access Control (RBAC)](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-manage-access-powershell)
-## [Creating Audit Reports for your directory](Audit-sample.md)
-## [Inviting guests in B2B]( https://docs.microsoft.com/en-us/azure/active-directory/active-directory-b2b-code-samples#powershell-example)
-## 
+## PowerShell scenario examples
+### [Managing groups in Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-accessmanagement-groups-settings-cmdlets)
+### [Managing Unified Groups settings using Powershell](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-accessmanagement-groups-settings-v2-cmdlets)
+### [Managing Role Based Access Control (RBAC)](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-manage-access-powershell)
+### [Creating Audit Reports for your directory](Audit-sample.md)
+## Powershell script snippets
+### [Inviting guests in B2B](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-b2b-code-samples#powershell-example)
+### [Creating a new user](New-user-sample.md)
 # Troubleshooting
 ## Install errors
 ### 
