@@ -1,4 +1,4 @@
- clone_folder: c:\projects\azure-docs-powershell-azuread
+clone_folder: c:\projects\azure-docs-powershell-azuread
 environment:
   nodejs_version: "6"
   github_access_token:
