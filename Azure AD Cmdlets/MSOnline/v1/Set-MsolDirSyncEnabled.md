@@ -19,6 +19,8 @@ Set-MsolDirSyncEnabled -EnableDirSync <Boolean> [-Force] [-TenantId <Guid>] [<Co
 ## DESCRIPTION
 The **Set-MsolDirSyncEnabled** cmdlet turns directory synchronization on or off for a company.
 
+> Warning: Running this cmdlet should not be used as a simple troubleshooting step. Careful planning should take place when enabling or disabling directory synchronization due to the ramifications this may cause to your operations.
+
 ## EXAMPLES
 
 ### Example 1: Turn on directory synchronization
